@@ -18,3 +18,8 @@ Before:
 ![before](https://www.raspberrypi.org/forums/download/file.php?id=45766)
 After:
 ![after](https://www.raspberrypi.org/forums/download/file.php?id=45767)
+## How it works
+This script simply copies some files into Libreoffice's config directory to change some settings.  
+Here are the files:
+- `~/.config/libreoffice/4/user/uno_packages/cache/uno_packages` (directory containing the unpackaged icon theme)
+- `~/.config/libreoffice/4/user/registrymodifications.xcu` (Libreoffice's main settings file)
