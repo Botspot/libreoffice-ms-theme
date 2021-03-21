@@ -1,0 +1,1 @@
+Office 2013 icons theme changes all icons of LibreOffice to give it a lightweight professional look. Two icon sizes are available, small and large. To apply theme, go to Tools > Options > LibreOffice > View and change Icon style and size, then restart.
