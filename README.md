@@ -4,6 +4,8 @@ It installs an [icon theme](https://www.deviantart.com/charliecnr/art/Office-201
 Currently the tabbed interface works for Calc, Impress, and Writer. Base and Math don't support it, and it doesn't work on Draw for some reason.  
 
 ### To install
+[![badge](https://github.com/Botspot/pi-apps/blob/master/icons/badge.png?raw=true)](https://github.com/Botspot/pi-apps)  
+Or, to install it manually:
 ```
 git clone https://github.com/Botspot/libreoffice-ms-theme
 ~/libreoffice-ms-theme/apply.sh
